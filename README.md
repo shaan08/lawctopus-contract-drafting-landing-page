@@ -33,7 +33,7 @@ The objective was to design and develop a professional, responsive, and conversi
 
 - HTML5
 - CSS3
-- JavaScript
+- Vanilla JavaScript
 - Bootstrap 5
 
 ## Accessibility
