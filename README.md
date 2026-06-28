@@ -53,7 +53,6 @@ The objective was to design and develop a professional, responsive, and conversi
 - Responsive images
 
 ## Screenshots
-- Desktop View
 ![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235003.png>) 
 ![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235028.png>) 
 ![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235042.png>) 
