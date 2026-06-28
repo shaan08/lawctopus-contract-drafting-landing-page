@@ -53,17 +53,17 @@ The objective was to design and develop a professional, responsive, and conversi
 - Responsive images
 
 ## Screenshots
-![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235003.png>) 
-![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235028.png>) 
-![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235042.png>) 
-![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235049.png>) 
-![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235104.png>) 
-![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235110.png>) 
-![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235126.png>) 
-![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235143.png>) 
-![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235153.png>) 
-![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235206.png>) 
-![Desktop Screenshot](<screenshots\Screenshot 2026-06-28 235224.png>)
+![Desktop Screenshot](<screenshots/Screenshot 2026-06-28 235003.png>) 
+![Desktop Screenshot](<screenshots/Screenshot 2026-06-28 235028.png>) 
+![Desktop Screenshot](<screenshots/Screenshot 2026-06-28 235042.png>) 
+![Desktop Screenshot](<screenshots/Screenshot 2026-06-28 235049.png>) 
+![Desktop Screenshot](<screenshots/Screenshot 2026-06-28 235104.png>) 
+![Desktop Screenshot](<screenshots/Screenshot 2026-06-28 235110.png>) 
+![Desktop Screenshot](<screenshots/Screenshot 2026-06-28 235126.png>) 
+![Desktop Screenshot](<screenshots/Screenshot 2026-06-28 235143.png>) 
+![Desktop Screenshot](<screenshots/Screenshot 2026-06-28 235153.png>) 
+![Desktop Screenshot](<screenshots/Screenshot 2026-06-28 235206.png>) 
+![Desktop Screenshot](<screenshots/Screenshot 2026-06-28 235224.png>)
 
 ## Author
 
